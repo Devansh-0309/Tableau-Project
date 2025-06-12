@@ -70,7 +70,8 @@ Data catalog is the short description of the data which is used to increase the 
 | Profit |  FLOAT  | Contains the profit in the decimal number format e.g (41.91, etc.)  |
 
 
-
+# License
+This project uses MIT license which ensures that this project is open to use, modify and download. Feel free to have a look. 
 
 
 
