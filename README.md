@@ -3,6 +3,10 @@
 ## Objective
 To Build a Sales and Customer Dashboard on Tableau to provide valuable insights about the data.
 
+## Architecture
+![image](https://github.com/user-attachments/assets/41a2c8a5-1478-4d8a-bc85-4d9f8a11c7ea)
+
+
 ## Data Model
 This project uses multiple datasets in the .csv format. These datasets have both fact as well and dimension tables. The project uses data of 2020-2023. Therefore STAR schema is used to build the data model.
 
