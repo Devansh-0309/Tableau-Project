@@ -9,7 +9,7 @@ This file shows the visuals of the sheets made using tableau that are further us
 ![image](https://github.com/user-attachments/assets/dc38fb58-eba9-48a8-aed4-a6e86d4c4f7b)
 
 
-## 3. Quantity
+## 3. KPI Quantity
 ![image](https://github.com/user-attachments/assets/79db2b58-335a-4dff-8ba0-919e627735a5)
 
 
